@@ -1,0 +1,11 @@
+{
+    "name": "$PROBE",
+    "symbol": "PROBE",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "$PROBE is a meme coin from the stars \u2014 Abduct Your Bags!",
+    "website": "https://probe.fun",
+    "explorer": "https://bscscan.com/token/0x8a3B4fB0eD16260F2Bc40B8B153dE62f2C6Cb5EE",
+    "status": "active",
+    "id": "0x8a3B4fB0eD16260F2Bc40B8B153dE62f2C6Cb5EE"
+}
